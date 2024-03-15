@@ -27,11 +27,27 @@ height: 32px' src={profile} alt="" />
       <button className='button font-bold ml-4'>Our Feedback</button>
     </div>
   </div>
+
 </div>
 
 <div>
     <h1 className='text1'>Our Recipes</h1>
     <p className='text-xl'>This dish embodies the essence of User's culinary expertise, offering a harmonious blend of freshness, richness, and sophistication.</p>
+</div>
+<div className='flex justify-between'>
+<div className="card card-compact w-96 bg-base-100 shadow-xl">
+  <figure><img src="https://i.postimg.cc/gJKLHMfv/pizza-pizza-filled-with-tomatoes-salami-olives.jpg" alt="Shoes" /></figure>
+  <div className="card-body">
+    <h2 className="card-title">Shoes!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div className="card-actions justify-end">
+      <button className="btn btn-primary">Buy Now</button>
+    </div>
+  </div>
+</div>
+<div>
+    <h1 className='text-6xl border-2 box-border-2'> Want to cook: 01</h1>
+</div>
 </div>
         </div>
     );
