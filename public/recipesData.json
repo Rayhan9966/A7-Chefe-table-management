@@ -1,56 +1,56 @@
 [
     {
-        "recipe_image": "https://i.postimg.cc/gJKLHMfv/pizza-pizza-filled-with-tomatoes-salami-olives.jpg",
+        "recipe_image": "https://i.postimg.cc/wMg26LRz/Rectangle-20170.png.jpg.jpg",
         "recipe_id": 1001,
         "recipe_name": "Savory Garlic Shrimp Pasta",
         "short_description": "A delightful pasta dish with succulent shrimp infused with garlic flavor.",
-        "ingredients": ["300 g linguine pasta", "400 g shrimp, peeled and deveined", "4 cloves garlic, minced", "1/4 cup olive oil", "1/2 cup grated Parmesan cheese", "2 tablespoons chopped parsley", "Salt and pepper to taste"],
-        "preparing_time": "35 min",
+        "ingredients": ["1) 300 g linguine pasta ",  "2) 400 g shrimp, peeled and deveined ",  "3) 4 cloves garlic, minced ",  "4) 1/4 cup olive oil " ,  " 5) 1/2 cup grated Parmesan cheese " , " 6) 2 tablespoons chopped parsley"],
+        "preparing_time": "35 minutes",
         "calories": "380 calories"
       },
       {
-        "recipe_image": "https://i.postimg.cc/1tW5zbkY/delicious-burger-with-many-ingredients-isolated-white-background-tasty-cheeseburger-splash-sauce.jpg",
+        "recipe_image": "https://i.postimg.cc/L5FxWG3x/Rectangle-20170-1.png",
         "recipe_id": 1002,
         "recipe_name": "Mouthwatering Veggie Pizza",
         "short_description": "A delicious pizza loaded with fresh vegetables and gooey cheese.",
-        "ingredients": ["1 pre-made pizza dough", "1/2 cup pizza sauce", "1 cup shredded mozzarella cheese", "1/2 cup sliced bell peppers", "1/2 cup sliced mushrooms", "1/4 cup sliced black olives", "1/4 cup sliced red onions", "2 tablespoons olive oil", "1 teaspoon dried oregano", "Salt and pepper to taste"],
-        "preparing_time": "30 min",
+        "ingredients": ["1) 1 pre-made pizza dough ", "2) 1/2 cup pizza sauce ", " 3) 1 cup shredded mozzarella cheese ", " 4) 1/2 cup sliced bell peppers ", "5) 1/2 cup sliced mushrooms", "6) 1/4 cup sliced black olives,1/4 cup sliced red onions", "2 tablespoons olive oil,1 teaspoon dried oregano and Salt and pepper to taste"],
+        "preparing_time": "30 minutes",
         "calories": "280 calories"
       },
       {
-        "recipe_image": "https://i.postimg.cc/gJKLHMfv/pizza-pizza-filled-with-tomatoes-salami-olives.jpg",
+        "recipe_image": "https://i.postimg.cc/wMg26LRz/Rectangle-20170.png.jpg",
         "recipe_id": 1003,
         "recipe_name": "Hearty Lentil Soup",
         "short_description": "A comforting soup packed with nutritious lentils, vegetables, and aromatic spices.",
         "ingredients": ["1 cup dried lentils", "4 cups vegetable broth", "1 onion, diced", "2 carrots, diced", "2 celery stalks, diced", "2 cloves garlic, minced", "1 teaspoon ground cumin", "1 teaspoon paprika", "1/2 teaspoon turmeric", "1/4 teaspoon cayenne pepper", "2 tablespoons olive oil", "Salt and pepper to taste"],
-        "preparing_time": "40 min",
+        "preparing_time": "40 minutes",
         "calories": "220 calories"
       },
       {
         "recipe_image": "https://i.postimg.cc/3wYKFK7c/front-view-yummy-shakh-plov-cooked-rice-dish-with-raisins-white-space.jpg",
-        "recipe_id": 1003,
+        "recipe_id": 1004,
         "recipe_name": "Hearty Lentil Soup",
         "short_description": "A comforting soup packed with nutritious lentils, vegetables, and aromatic spices.",
         "ingredients": ["1 cup dried lentils", "4 cups vegetable broth", "1 onion, diced", "2 carrots, diced", "2 celery stalks, diced", "2 cloves garlic, minced", "1 teaspoon ground cumin", "1 teaspoon paprika", "1/2 teaspoon turmeric", "1/4 teaspoon cayenne pepper", "2 tablespoons olive oil", "Salt and pepper to taste"],
-        "preparing_time": "40 min",
+        "preparing_time": "40 minutes",
         "calories": "220 calories"
       },
       {
-        "recipe_image": "https://example.com/recipe4.jpg",
-        "recipe_id": 1004,
+        "recipe_image": "https://i.postimg.cc/L5FxWG3x/Rectangle-20170-1.png",
+        "recipe_id": 1005,
         "recipe_name": "Zesty Lemon Chicken",
         "short_description": "Tender chicken breasts marinated in zesty lemon juice and herbs, perfect for a refreshing meal.",
         "ingredients": ["4 boneless, skinless chicken breasts", "1/4 cup fresh lemon juice", "2 tablespoons olive oil", "2 cloves garlic, minced", "1 teaspoon dried thyme", "1 teaspoon dried rosemary", "1/2 teaspoon paprika", "Zest of 1 lemon", "Salt and pepper to taste"],
-        "preparing_time": "35 min",
+        "preparing_time": "35 minutes",
         "calories": "290 calories"
       },
       {
         "recipe_image": "https://i.postimg.cc/3wYKFK7c/front-view-yummy-shakh-plov-cooked-rice-dish-with-raisins-white-space.jpg",
-        "recipe_id": 1005,
+        "recipe_id": 1006,
         "recipe_name": "Creamy Spinach Artichoke Dip",
         "short_description": "A creamy and indulgent dip loaded with spinach, artichokes, and melted cheese.",
         "ingredients": ["1 cup chopped spinach", "1 cup chopped artichoke hearts", "1 cup shredded mozzarella cheese", "1/2 cup grated Parmesan cheese", "1/2 cup sour cream", "1/4 cup mayonnaise", "2 cloves garlic, minced", "1 teaspoon dried basil", "1/2 teaspoon red pepper flakes", "Salt and pepper to taste"],
-        "preparing_time": "25 min",
+        "preparing_time": "25 minutes",
         "calories": "220 calories"
       }
    
