@@ -13,17 +13,7 @@ const Recipes = () => {
             .then(data => setRecipes(data))
 
     }, [])
-    //     const handleCart= (p)=>{
-    // const isExist=cart.find(pd=> pd.recipe_id == p.recipe_id);
-    // if(!isExist){
-    //     setCart([...cart,p])
-    // }
-    // else{
-    //     alert("already in cart");
-    // }
-    //         console.log(isExist);
-    //     };
-    // console.log(recipes); 
+   
 
     const handleCart = (p) => {
         const isExist=cart.find(item => item.recipe_id == p.recipe_id);

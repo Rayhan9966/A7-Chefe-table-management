@@ -4,9 +4,9 @@ const SingleProduct = ({product, handleCart}) => {
     console.log(handleCart);
     return (
         <div>
-            <div className="card border gap-4 mt-3">
+            <div className="card border  gap-4 mt-3">
             
-                    <figure><img className="rounded img" src={product.recipe_image} alt="Shoes" /></figure>
+                    <figure><img className="rounded-xl img" src={product.recipe_image} alt="Shoes" /></figure>
                     <p className='text-start font-bold'>{product.recipe_id}</p>
                     <h1 className='font-bold text-2xl text-start'>{product.recipe_name.slice(0.10)}</h1>
                     <p className='text-start'>{product.short_description}
