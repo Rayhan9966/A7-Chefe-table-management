@@ -22,7 +22,7 @@ const SingleProduct = ({product, handleCart}) => {
                     <div className="card-body">
 
                         <div className="card-actions justify-start items-start">
-                            <button onClick={(e)=>handleCart(product)} className="button mt-4">Want to Cook</button>
+                            <button onClick={(e)=>handleCart(product)} className="button mt-6">Want to Cook</button>
                         </div>
                     </div>
                 

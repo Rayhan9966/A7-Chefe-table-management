@@ -11,9 +11,9 @@
       {
         "recipe_image": "https://i.postimg.cc/L5FxWG3x/Rectangle-20170-1.png",
         "recipe_id": 1002,
-        "recipe_name": "Mouthwatering Veggie Pizza",
+        "recipe_name": "Mouthwatering Pizza",
         "short_description": "A delicious pizza loaded with fresh vegetables and gooey cheese.",
-        "ingredients": ["1) 1 pre-made pizza dough ", "2) 1/2 cup pizza sauce ", " 3) 1 cup shredded mozzarella cheese ", " 4) 1/2 cup sliced bell peppers ", "5) 1/2 cup sliced mushrooms", "6) 1/4 cup sliced black olives,1/4 cup sliced red onions", "2 tablespoons olive oil,1 teaspoon dried oregano and Salt and pepper to taste"],
+        "ingredients": ["1) 1 pre-made pizza dough ", "2) 1/2 cup pizza sauce ", " 3) 1 cup shredded mozzarella cheese ", " 4) 1/2 cup sliced bell peppers ", "5) 1/2 cup sliced mushrooms", "6) 1/4 cup olives, and Salt and pepper to taste"],
         "preparing_time": "30 minutes",
         "calories": "280 calories"
       },
@@ -47,9 +47,9 @@
       {
         "recipe_image": "https://i.postimg.cc/3wYKFK7c/front-view-yummy-shakh-plov-cooked-rice-dish-with-raisins-white-space.jpg",
         "recipe_id": 1006,
-        "recipe_name": "Creamy Spinach Artichoke Dip",
+        "recipe_name": "Creamy Spinach Artichoke",
         "short_description": "A creamy and indulgent dip loaded with spinach, artichokes, and melted cheese.",
-        "ingredients": ["1 cup chopped spinach", "1 cup chopped artichoke hearts", "1 cup shredded mozzarella cheese", "1/2 cup grated Parmesan cheese", "1/2 cup sour cream", "1/4 cup mayonnaise", "2 cloves garlic, minced", "1 teaspoon dried basil", "1/2 teaspoon red pepper flakes", "Salt and pepper to taste"],
+        "ingredients": ["1 cup chopped spinach", "1 cup chopped artichoke hearts",  "2 cloves garlic, minced","1/2 cup grated Parmesan cheese", "1/4 cup mayonnaise", "2 cloves garlic, minced", "1 teaspoon dried basil", "1/2 teaspoon red pepper flakes", "Salt and pepper to taste"],
         "preparing_time": "25 minutes",
         "calories": "220 calories"
       }

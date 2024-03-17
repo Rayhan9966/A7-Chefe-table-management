@@ -16,6 +16,7 @@ const Header = () => {
         <img className="bg-green-600 ml-2 rounded-2xl icon " src={profile} alt="" />
 
       </div>
+      <div className=" ml-20">
       <div className="hero min-h-screen bg-no-repeat mt-5 rounded-2xl" style={{ backgroundImage: 'url(https://i.postimg.cc/hGjw9jhs/Rectangle-1.png)' }}>
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center">
@@ -27,6 +28,7 @@ const Header = () => {
           </div>
         </div>
 
+      </div>
       </div>
       <br />
       <div>

@@ -21,6 +21,7 @@ const Recipes = () => {
         setCart([...cart,p]);
        }
        else{
+    
       alert("Already Added")
        }
        
@@ -34,8 +35,8 @@ const Recipes = () => {
     return (
         <div className="">
             <h1 className="text-4xl font-bold mt-5">Total Recipe: {recipes.length}</h1>
-            <div className="main-container text-xl flex gap-8">
-                <div className="cards-container  ">
+            <div className="main-container text-xl mr-4 flex gap-8">
+                <div className="cards-container cards flex  gap-4 grid grid-cols-2">
 
                     {
                         recipes.map((pd) => (
